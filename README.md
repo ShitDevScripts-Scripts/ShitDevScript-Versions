@@ -6,13 +6,13 @@ This repository contains version information for ShitDevScripts resources, allow
 
 ## Available Resources
 
-| Resource | Version Information |
-|---|---|
-| ShitDevScripts-Banking | Available |
-| ShitDevScripts-Billing | Available |
-| ShitDevScripts-Bossmenu | Available |
-| ShitDevScripts-Database | Available |
-| ShitDevScripts-Scoreboard | Available |
+| Resource |
+|---|
+| ShitDevScripts-Banking |
+| ShitDevScripts-Billing |
+| ShitDevScripts-Bossmenu |
+| ShitDevScripts-Database |
+| ShitDevScripts-Scoreboard |
 
 ## Purpose
 
@@ -33,6 +33,7 @@ Make sure your version checker points to this repository to receive the latest v
 
 - **GitHub:** https://github.com/ShitDevScripts-Scripts
 - **Versions:** https://github.com/ShitDevScripts-Scripts/ShitDevScript-Versions
+- **Tebex Store:** https://shitdevscripts.tebex.io/
 
 ---
 
